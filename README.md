@@ -26,8 +26,6 @@
 ### Project Overview
 
 The coffee sales analysis project focused on extracting insights from a multi-year dataset containing detailed information on customer orders, product types, roast preferences, packaging sizes, and country-wise sales performance. Using Microsoft Excel, the data was cleaned through duplicate removal, consistent formatting, and conversion into structured tables. Advanced Excel functions like XLOOKUP, INDEX MATCH, and multiple IF statements were applied for accurate data retrieval and logic handling. A dynamic dashboard was then developed to visualize key metrics such as total sales over time, top-performing countries (United States, Ireland, and United Kingdom), and the top five customers by sales volume. Interactive elements like slicers, timelines, and pivot tables enabled users to filter results by roast type, loyalty card usage, and coffee size, ultimately supporting data-driven decisions for business growth.
-![Screenshot 2025-05-02 092858](https://github.com/user-attachments/assets/9cf96f90-99cb-4ca2-8c24-92e36cde51a7)
-
 
 ### Dataset Description
 
@@ -78,6 +76,8 @@ The dashboard was built with user interactivity and clarity in mind:
 - Added Slicers for roast type, loyalty card status, and package size.
 - Visualized Top 5 Customers using bar charts for quick business insight.
 - Ensured all visuals were professionally formatted with consistent themes and spacing.
+![Screenshot 2025-05-02 092858](https://github.com/user-attachments/assets/9cf96f90-99cb-4ca2-8c24-92e36cde51a7)
+
 
 ### Key Insights
 
