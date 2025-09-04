@@ -1,4 +1,4 @@
-# Coffee_Sales_Analysis
+# Sales_Coffee_Analysis
 
 ## Table of Contents
 - [Project Overview](#project-overview)
